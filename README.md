@@ -1,3 +1,21 @@
+![image](https://user-images.githubusercontent.com/57425658/102692582-9be50e80-4257-11eb-8f09-44c48a95353d.png)
+
+![image](https://user-images.githubusercontent.com/57425658/102692584-9e476880-4257-11eb-8981-ec2a82efbc17.png)
+
+![image](https://user-images.githubusercontent.com/57425658/102692585-a1425900-4257-11eb-90ca-f79eb338c9a3.png)
+
+![image](https://user-images.githubusercontent.com/57425658/102692590-a6070d00-4257-11eb-9255-de25c5458915.png)
+
+![image](https://user-images.githubusercontent.com/57425658/102692601-b919dd00-4257-11eb-961c-189803ef9db7.png)
+
+![image](https://user-images.githubusercontent.com/57425658/102692596-b0c1a200-4257-11eb-9452-1123106684b2.png)
+
+![image](https://user-images.githubusercontent.com/57425658/102692597-b3bc9280-4257-11eb-8071-f4b46c76a992.png)
+
+#### paper DOI : 10.1109/GCCE46687.2019.9015294
+
+
+
 2020년 4월 2일
 
 2019년 여름부터 설계하고 실험한 데이터 및 매트랩 코드
